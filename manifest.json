@@ -6,7 +6,8 @@
     {
       "matches": [
         "https://partner-portal.k8s-eu-central-1-theta.external.sam-app.ro/*/create-account",
-        "https://partner-portal.sam-app.ro/*/create-account"
+        "https://partner-portal.sam-app.ro/*/create-account",
+        "http://localhost:3000/*/create-account"
       ],
       "run_at": "document_end",
       "js": [
